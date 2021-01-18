@@ -1,9 +1,10 @@
 # Face Recognition Methods
-1.0 facenet
-2.0 sphereface 
+1.0 facenet.
+2.0 sphereface.
     https://openaccess.thecvf.com/content_cvpr_2017/papers/Liu_SphereFace_Deep_Hypersphere_CVPR_2017_paper.pdf
-3.0 arcface
-4.0 deepface https://github.com/serengil/deepface
+3.0 arcface.
+4.0 deepface.
+    https://github.com/serengil/deepface
 
 # Loss Function
 1.0 softmax
