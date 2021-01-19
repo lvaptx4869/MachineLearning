@@ -14,8 +14,8 @@
 * CeleBA http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html
 * MS-Celeb-1M https://www.microsoft.com/en-us/research/project/ms-celeb-1m-challenge-recognizing-one-million-celebrities-real-world/
 
-https://frchallenge.github.io/download/aligned
-https://frchallenge.github.io/download/cropped
+* https://frchallenge.github.io/download/aligned
+* https://frchallenge.github.io/download/cropped
 
 # Tutotials: 
 * https://github.com/serengil/tensorflow-101
